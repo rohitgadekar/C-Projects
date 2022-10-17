@@ -150,7 +150,7 @@ void menu()
         printf("invalid choice");
         break;
     case 2:
-        exit(0);
+        break;
 
     case 1:
 
